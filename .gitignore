@@ -2,4 +2,5 @@
 .env
 venv
 __pycharm__
+__pycache__
 screens
